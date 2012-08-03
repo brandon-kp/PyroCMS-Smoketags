@@ -1,5 +1,6 @@
 ## What is this?
 This is an animated tag cloud widget for PyroCMS.
+
 ![Smoketags](http://i.imgur.com/kHeOc.png)
 
 ## How do I use it?
